@@ -1,0 +1,20 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.fullSection {
+  height: 50vw;
+}
+
+.btn {
+  padding: 50px;
+  width: 160px;
+}
+
+.bottomBtn {
+  padding-top: 30%;
+}
+
+/*# sourceMappingURL=style.css.map */
